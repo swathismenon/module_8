@@ -1,0 +1,16 @@
+{
+  "name": "webxr-canvas-panel",
+  "version": "1.0.0",
+  "description": "WebXR application with interactive canvas panel",
+  "main": "main.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+} 
